@@ -228,9 +228,9 @@ This is a research project, but contributions are welcome. See CONTRIBUTING.md f
 ## ✉️ Contact
 
 For questions about the methodology or applications:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Research Portfolio**: [Your Website]
+- **Email**: erwin.mcdonald@outlook.com
+- **LinkedIn**: [https://www.linkedin.com/in/mauricemcdonald]
+- **Research Portfolio**: [https://github.com/emcdo411]
 
 ---
 
