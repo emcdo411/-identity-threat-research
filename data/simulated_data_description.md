@@ -152,5 +152,5 @@ If using this dataset, cite:
 
 For questions about data generation or requests for modified simulation parameters:
 
-- **Email**: your.email@example.com
-- **GitHub**: github.com/yourusername/identity-threat-research
+- **Email**: erwin.mcdonald@outlook.com
+- **GitHub**: github.com/emcdo411/identity-threat-research
