@@ -106,7 +106,7 @@ identity-threat-research/
 │
 ├── README.md                          # This file
 ├── methodology.md                     # Detailed methods and assumptions
-├── identity_dashboard.Rmd             # Main interactive dashboard
+├── identity_dashboard_CHIEF_DS_ENHANCED.Rmd            # Main interactive dashboard
 │
 ├── R/
 │   ├── data_generation.R              # Simulation logic and data generation
