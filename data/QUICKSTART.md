@@ -268,8 +268,8 @@ This is your research project, but if you want to make it open source:
 
 For questions about this repository setup:
 - Open a GitHub Issue
-- Email: your.email@example.com
-- LinkedIn: your-linkedin-profile
+- Email: erwin.mcdonald@outlook.com
+- LinkedIn: https://linkedin.com/in/mauricemcdonald
 
 ---
 
