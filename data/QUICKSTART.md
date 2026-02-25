@@ -277,6 +277,7 @@ For questions about this repository setup:
 
 **Status**: Research Framework / Portfolio Project
 
-**License**: [Add your chosen license]
+## License
 
-**Last Updated**: February 14, 2026
+This repository uses the DACR Research License.  
+See: [DACR.md](DACR.md)
